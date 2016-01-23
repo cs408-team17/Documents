@@ -25,6 +25,6 @@ The application allows users to share moments (if time allows)
 - Developers, Project Owners: Hanqi Du, Ao Liu, Xiaoyang Lin, Wanqi Jiang, Qinxin Shi, Zhixuan Yu
 
 ## Deliverables
-Front end: Using Swift/Object C and Cocoa library. Platform: Xcode
-Back end: Using Java to implement api. Database: SQLite
-Platform: iOS devices
+- Front end: Xcode with Swift/Object C and Cocoa library
+- Back end: Java for api and SQLite for database
+- Platform: iOS devices
