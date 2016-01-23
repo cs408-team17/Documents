@@ -11,10 +11,12 @@ The application allows users to socialize
 - Add friends
 - One-on-one chat
 - Group chat
+
 The application allows users to organize conversations
 - Branches under a group chat
 - Event (if time allows)
 - Vote (if time allows)
+
 The application allows users to share moments (if time allows)
 - Circle of friends (if time allows)
 
@@ -23,6 +25,6 @@ The application allows users to share moments (if time allows)
 - Developers, Project Owners: Hanqi Du, Ao Liu, Xiaoyang Lin, Wanqi Jiang, Qinxin Shi, Zhixuan Yu
 
 ## Deliverables
-Front end - Using Swift/Object C and Cocoa library. Platform: Xcode 
-Back end - Using Java to implement api. Database: SQLite
-Platform - iOS devices
+Front end: Using Swift/Object C and Cocoa library. Platform: Xcode
+Back end: Using Java to implement api. Database: SQLite
+Platform: iOS devices
