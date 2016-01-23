@@ -25,4 +25,4 @@ The application allows users to share moments (if time allows)
 ## Deliverables
 Front end - Using Swift/Object C and Cocoa library. Platform: Xcode 
 Back end - Using Java to implement api. Database: SQLite
-Platform: iOS devices
+Platform - iOS devices
